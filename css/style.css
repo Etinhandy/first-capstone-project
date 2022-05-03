@@ -499,6 +499,7 @@ footer {
   .images-1, .images-2, .images-3, .images-4 {
     height: 6rem;
     width: 8rem;
+    margin-left: 0.6rem;
   }
 
   /* third section stylings*/
